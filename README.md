@@ -26,4 +26,3 @@
  + `styled-components`
  + `@mui/material`
  + `@mui/icons-material`
-
